@@ -1,6 +1,6 @@
 gVersion
 ========
-gVersion is a versions framework for Garry's Mod. It will notify anyone using your addon that it is outdated.
+gVersion is a versions framework for Garry's Mod. It will notify anyone using your addon if it is outdated or not.
 
 Installation
 ------------
