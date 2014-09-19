@@ -1,6 +1,6 @@
 local gVersion = {}
 gVersion.FilePath = "data/gversion_version.txt" -- Where is the local version file stored.
-gVersion.Cloud = "https://raw.githubusercontent.com/Starfox64/gVersion/master/data/gversion_version.txt" -- The URL of the remove version file if you are using a file from github you can get this link by hitting 'RAW' on it.
+gVersion.Cloud = "https://raw.githubusercontent.com/Starfox64/gVersion/master/data/gversion_version.txt" -- The URL of the remote version file if you are using a file from github you can get this link by hitting 'RAW' on it.
 gVersion.AddonName = "gVersion" -- The name of your addon.
 gVersion.NotifyClient = true -- Should gVersion echo whether or not the addon is up to date to clients?
 
